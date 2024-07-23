@@ -1,0 +1,11 @@
+{
+  "domain": "fluctuo",
+  "name": "Fluctuo",
+  "documentation": "https://github.com/OzTamir/ha-lime",
+  "dependencies": [],
+  "codeowners": ["@oztamir"],
+  "requirements": ["aiohttp", "gql", "geopy", "pydantic"],
+  "version": "0.1.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
